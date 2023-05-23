@@ -10,7 +10,7 @@
 
 - 📫 How to reach me **myaka20@ku.edu.tr**
 
-- 📄 Know about my experiences metehanyaka.xyz
+- 📄 Know about my experiences www.metehanyaka.xyz
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
