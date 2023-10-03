@@ -4,8 +4,10 @@
 <p align="left"> <a href="https://twitter.com/metehanyaka" target="blank"><img src="https://img.shields.io/twitter/follow/metehanyaka?logo=twitter&style=for-the-badge" alt="metehanyaka" /></a> </p>
 
 
-- 🌱 I’m currently learning **Data Structures and Algorithms**
+- 🌱 I’m currently learning **Backend Developing**
 
+- 📖 This semester, I'm taking **Softaware Engineering, Programming Language Concepts, and Database Managment Systems** courses
+  
 - 💬 Ask me about **java, pyhton**
 
 - 📫 How to reach me **myaka20@ku.edu.tr**
