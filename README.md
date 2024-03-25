@@ -5,7 +5,7 @@
 
 - 🌱 I’m currently learning **Backend Developing**
 
-- 📖 This semester, I'm taking **Softaware Engineering, Programming Language Concepts, and Database Managment Systems** courses
+- 📖 This semester, I'm taking **Operating Systems, Introduction to Devops, and Introduction to AI** courses
   
 - 💬 Ask me about **java, pyhton**
 
