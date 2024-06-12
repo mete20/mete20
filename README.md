@@ -3,11 +3,11 @@
 <p align="left"> <a href="https://twitter.com/metehanyaka" target="blank"><img src="https://img.shields.io/twitter/follow/metehanyaka?logo=twitter&style=for-the-badge" alt="metehanyaka" /></a> </p>
 
 
-- 🌱 I’m currently learning **Backend Developing**
+- 🌱 I’m currently learning **Backend Developing and DevOps Tools**
 
-- 📖 This semester, I'm taking **Operating Systems, Introduction to Devops, and Introduction to AI** courses
+- 📖 Last semester, I took **Operating Systems, Introduction to Devops, and Introduction to AI** courses
   
-- 💬 Ask me about **java, pyhton**
+- 💬 Ask me about **java, python**
 
 - 📫 How to reach me **myaka20@ku.edu.tr**
 
