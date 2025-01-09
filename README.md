@@ -4,10 +4,8 @@
 
 
 - 🌱 I’m currently learning **DevOps**
-
-- 📖 Last semester, I took **Operating Systems, Introduction to Devops, and Introduction to AI** courses
   
-- 💬 Ask me about **docker, k8s, jenkins, terraform, helm, java, python**
+- 💬 Ask me about **docker, k8s, jenkins, terraform, helm, java, python, gcp**
 
 - 📫 How to reach me **myaka20@ku.edu.tr**
 
